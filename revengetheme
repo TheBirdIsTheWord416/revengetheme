@@ -1,0 +1,15 @@
+{
+  "name": "Comic Sans Theme",
+  "version": "1.0.0",
+  "author": "ChatGPT",
+  "imports": [
+    "https://fonts.googleapis.com/css2?family=Comic+Sans+MS:wght@400;700&display=swap"
+  ],
+  "theme": {
+    "css": "
+      * {
+        font-family: 'Comic Sans MS', 'Comic Sans', sans-serif !important;
+      }
+    "
+  }
+}
